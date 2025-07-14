@@ -1,0 +1,36 @@
+﻿{
+  "name": "lilxyzw-downloader",
+  "id": "io.github.lilxyzw.vpm-downloader",
+  "author": "lilxyzw",
+  "url": "https://lilxyzw.github.io/vpm-repos-downloaders/vpm.json",
+  "packages": {
+    "jp.lilxyzw.lilpbr": {
+      "versions": {
+        "0.9.0": {
+          "name": "jp.lilxyzw.lilpbr",
+          "version": "0.9.0",
+          "displayName": "lilPBR",
+          "description": "PBR for VRC",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/vpm-repos-downloaders/raw/refs/heads/main/jp.lilxyzw.lilpbr-0.9.0-downloader.zip?"
+        }
+      }
+    },
+    "jp.lilxyzw.anythingreplacer": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.lilxyzw.anythingreplacer",
+          "version": "0.1.0",
+          "displayName": "lilAnythingReplacer",
+          "description": "Modify avatar at build time.",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "url": "https://github.com/lilxyzw/vpm-repos-downloaders/raw/refs/heads/main/jp.lilxyzw.anythingreplacer-0.1.0-downloader.zip?"
+        }
+      }
+    }
+  }
+}
