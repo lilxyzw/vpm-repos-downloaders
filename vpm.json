@@ -6,6 +6,15 @@
   "packages": {
     "jp.lilxyzw.lilpbr": {
       "versions": {
+        "0.10.0": {
+          "name": "jp.lilxyzw.lilpbr",
+          "version": "0.10.0",
+          "displayName": "lilPBR",
+          "description": "PBR for VRC",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/vpm-repos-downloaders/raw/refs/heads/main/jp.lilxyzw.lilpbr-0.10.0-downloader.zip?"
+        },
         "0.9.0": {
           "name": "jp.lilxyzw.lilpbr",
           "version": "0.9.0",
